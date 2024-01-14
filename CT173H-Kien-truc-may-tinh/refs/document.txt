@@ -1,0 +1,11 @@
+Tài liệu tham khảo:
+D.A. Patterson, and J. L. Hennessy (2014)
+Computer Organization and Design: The Hardware/Software Interface
+Morgan Kaufman
+
+W. Stallings (2013)
+Computer Organization and Architecture
+Pearson 9th eds.
+
+Tutorialpoints (2019)
+Assembly Programming Tutorial
